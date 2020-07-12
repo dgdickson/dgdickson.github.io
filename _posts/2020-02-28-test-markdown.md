@@ -4,11 +4,13 @@ title: Sample blog post
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+tags: [Games, Ubisoft]
+comments: false
 ---
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+
+Try this out! [Space Shooter](../games/space-shooter/demo/)
 
 **Here is some bold text**
 
@@ -26,7 +28,7 @@ Here's a useless table:
 
 How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](../assets/img/dd-logo.png)
 
 It can also be centered!
 
